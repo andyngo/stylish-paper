@@ -1,0 +1,8 @@
+html, body, input, textarea, select, button {
+        font-family: -apple-system, AtlasGrotesk, 'Helvetica Neue', Helvetica, sans-serif !important;
+}
+
+.highlight, .highlight.code, .highlight.inline-code {
+        background-color: #ffe89b !important;
+        color: #332B1E !important;
+}
