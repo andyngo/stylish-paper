@@ -1,5 +1,5 @@
 html, body, input, textarea, select, button {
-        font-family: -apple-system, AtlasGrotesk, 'Helvetica Neue', Helvetica, sans-serif !important;
+        font-family: -apple-system, BlinkMacSystemFont, AtlasGrotesk, 'Helvetica Neue', Helvetica, sans-serif !important;
 }
 
 .highlight, .highlight.code, .highlight.inline-code {
